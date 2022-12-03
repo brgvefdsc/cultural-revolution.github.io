@@ -1,0 +1,26 @@
+/* Top Bar Settings!*/
+.topnav {
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left; 
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 25%;
+
+  }
+  
+  .topnav a:hover {
+    background-color: #d8dee9;
+    color: black;
+  }
+  
+  .topnav a.active {
+    color: white;
+    background-color: rgb(197, 69, 50);
+  }
+  /* Top Setting ends*/
